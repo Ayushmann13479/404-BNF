@@ -1,2 +1,2 @@
 # 404-BNF
-A E-Commerce website with modern clothing.
+A E-Commerce website for modern clothing.
