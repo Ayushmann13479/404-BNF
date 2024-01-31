@@ -1,5 +1,4 @@
-# 404-BNF
-A E-Commerce website for modern clothing.
+# 404-BNF ||  A E-Commerce website for Genz clothing.
 ![1](https://github.com/Ayushmann13479/404-BNF/assets/142772501/ea056b2d-cb72-4809-81c9-856982fcd0c1)
 ![2](https://github.com/Ayushmann13479/404-BNF/assets/142772501/a51eff84-e12e-4746-9707-3fdfccd4b186)
 ![3](https://github.com/Ayushmann13479/404-BNF/assets/142772501/4212ba46-a83b-405a-a1fa-ec95acd84105)
